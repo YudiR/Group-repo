@@ -7,5 +7,9 @@ Thank you very much. Chag Samach!
 
 Shabbat shalom!
 
+<<<<<<< HEAD
 HI. its snowing out side. Good Yom Tov!!!!!!!!!
 
+=======
+8 nights
+>>>>>>> 7165ac594a2ff681bb9c0a9cfd87760b3c796d68
