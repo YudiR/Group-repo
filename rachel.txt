@@ -4,4 +4,8 @@ It is now  930
 
 WE are learning how Grouprepo. its pretty neat.
 
+<<<<<<< HEAD
+Its now 951... time is going by so quick!!!!!!!!
+=======
 cool
+>>>>>>> 7165ac594a2ff681bb9c0a9cfd87760b3c796d68
